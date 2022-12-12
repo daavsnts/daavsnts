@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Android Engineer from Brazil!</p>
+<p align="left">A passionate <b>Android Engineer</b> from <b>Brazil</b>!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👯 My area of interest are Android Development.<br>🔭 I’m currently studying Software Engineering at the Catholic University of Brasilia.<br>🎲 Fun fact: I like to make analogies!</p>
+<p align="left">👯 My area of interest is <b>Android Development</b>.<br>🔭 I’m currently studying <b>Software Engineering</b> at the <b>Catholic University of Brasilia</b>.<br>🎲 Fun fact: I like to make analogies!</p>
 
 ###
 
