@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">👯 My area of interest is <b>Android Native Development</b> but I <b>also love (and hate) JavaScript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.<br>🎲 <b>Fun fact:</b> I like to make analogies!</p>
+<p align="left">👯 My area of interest is <b>Native Android Development</b> but I <b>also love (and hate) JavaScript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.<br>🎲 <b>Fun fact:</b> I like to make analogies!</p>
 
 <h2 align="left">I'm working with</h2>
 
