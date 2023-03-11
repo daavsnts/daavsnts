@@ -1,6 +1,6 @@
 <h1 align="left">Welcome 👋, I'm Davi Santos!</h1>
 
-<p align="left">A passionate <b>Software Engineer</b> from <b>Brazil</b>!</p>
+<p align="left">A passionate <b>Android Developer</b> from <b>Brazil</b>!</p>
 
 <h2 align="left">About me</h2>
 
