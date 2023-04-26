@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b>/<b>Java</b> but <b>I also love</b> (<b>and hate</b>) <b>Javascript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.<br>🎲 <b>Fun fact:</b> I like to make analogies!</p>
+<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b>/<b>Java</b> but <b>I also like</b> <b>Typescript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.
 
 <h2 align="left">I'm working with</h2>
 
@@ -37,16 +37,5 @@
   </a>
   <a href="mailto:daavsantosl@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-<h2 align="left">See my CV</h2>
-
-<div align="left">
-  <a href="https://github.com/daavsnts/daavsnts/blob/main/CV%20-%20Davi%20Santos%20-%20EN-US.pdf" target="_blank">
-    <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://github.com/daavsnts/daavsnts/raw/main/CV%20-%20Davi%20Santos%20-%20PT-BR.pdf" target="_blank">
-    <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
