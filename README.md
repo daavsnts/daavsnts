@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b>/<b>Java</b> but <b>I also like</b> <b>Typescript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.
+<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b> + <b>Jetpack Compose</b> but <b>I also like</b> <b>Typescript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.
 
 <h2 align="left">I'm working with</h2>
 
