@@ -5,9 +5,9 @@
 <h2 align="left">About me</h2>
 
 <ul align="left">
-<li>• Being self-taught, I keep up-to-date with new technologies, methodologies, and concepts in the market.</li>
-<li>• Being a teaching enthusiast, I have in my mind that the best way to learn is by teaching.</li>
-<li>• I feel rewarded when solving problems and I am always looking for the best way to solve them, always respecting the "Keep It Simple" concept.</li>
+<li>Being self-taught, I keep up-to-date with new technologies, methodologies, and concepts in the market.</li>
+<li>Being a teaching enthusiast, I have in my mind that the best way to learn is by teaching.</li>
+<li>I feel rewarded when solving problems and I am always looking for the best way to solve them, always respecting the "Keep It Simple" concept.</li>
 </ul>
 
 <h2 align="left">I'm working with</h2>
