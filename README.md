@@ -1,10 +1,10 @@
 <h1 align="left">Welcome 👋, I'm Davi Santos!</h1>
 
-<p align="left">A passionate <b>Android Developer</b> from <b>Brazil</b>!</p>
+<p align="left">A passionate <b>Software Engineer</b> from <b>Brazil</b>!</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b> + <b>Jetpack Compose</b> but <b>I also like</b> <b>Typescript</b>.<br>🔭 I’m currently studying <b>Computer Science</b> at the <b>Catholic University of Brasilia</b>.
+<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b> + <b>Jetpack Compose</b> but <b>I also like</b> <b>Typescript</b>.<br>🔭
 
 <h2 align="left">I'm working with</h2>
 
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  />
 </div>
 
-<h2 align="left">I also know</h2>
+<h2 align="left">I also work with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
