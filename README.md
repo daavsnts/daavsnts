@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">👯 My area of interest is <b>Android Development</b> with <b>Kotlin</b> + <b>Jetpack Compose</b> but <b>I also like</b> <b>Typescript</b>.<br>
+<p align="left">👯 I can work with <b>any type of technology</b>.<br>
 
 <h2 align="left">I'm working with</h2>
 
