@@ -33,10 +33,10 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="52" alt="firebase logo"  />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" width="40" alt="sqlite logo"  />
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" width="40" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
 </div>
 
 <h2 align="left">Connect with me</h2>
