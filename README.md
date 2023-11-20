@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40" alt="springboot logo"  />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" width="40" alt="sqlite logo"  />
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" width="40" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
