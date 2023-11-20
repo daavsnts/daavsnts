@@ -28,9 +28,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="40" width="52" alt="svelte logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="52" alt="springboot logo"  />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40" alt="springboot logo"  />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" width="40" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
