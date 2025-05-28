@@ -26,7 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="tailwind logo"  />
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" height="40" width="52" alt="nuxt logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40" width="52" alt="vue logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" width="52" alt="next logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="40" width="52" alt="svelte logo"  />
