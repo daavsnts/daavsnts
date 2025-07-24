@@ -5,7 +5,7 @@
 <h2 align="left">About me</h2>
 
 <ul align="left">
-<li>Software Engineer with 2+ years of experience in developing applications and responsive interfaces. Specialized in React Native and Next.js, with strong expertise in clean architecture, REST API integrations, and continuous delivery. Experienced in agile environments with a focus on code quality, performance, and usability.</li>
+<li>Mobile & Front-end Developer with 2+ years of experience in developing applications and responsive interfaces. Specialized in React Native and Next.js, with strong expertise in clean architecture, REST API integrations, and continuous delivery. Experienced in agile environments with a focus on code quality, performance, and usability.</li>
 <li>I aim to deliver value through stable, well-architected, and intuitive solutions, helping reduce production issues and increase system reliability. I’m committed to building high-quality software that aligns with real business needs.</li>
 <li>I feel rewarded when solving problems and always look for the best way to solve them, always respecting the "Keep It Simple" concept.</li>
 </ul>
